@@ -42,8 +42,8 @@ Permite:
    ![Descarga y fusión](assets/nexus(1).gif)
 
 5. **Acceso a videos Premium, privados o con restricción**
-   ![Videos restringidos](assets/nexus(5).gif.gif)
-   ![Vista general](assets/assets/nexus(3).JPG)
+   ![Videos restringidos](assets/nexus(5).gif)
+   ![Vista general](assets/nexus(3).JPG)
 ---
 ## ✨ Características principales
 
