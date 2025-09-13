@@ -1,7 +1,7 @@
 
 # 🎬 Project NexusDownloader AI — Sistema Inteligente de Descarga y Análisis Multimedia
 
-**Tipo de archivo:** **Python · yt-dlp · ffmpeg · Pandas · ipywidgets**
+**Tipo de archivo:** **Python · yt-dlp · ffmpeg · Jupyter · ipywidgets**
 
 **Archivos principales del proyecto:**
 
