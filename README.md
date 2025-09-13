@@ -202,6 +202,3 @@ Recomendado: mantener repositorio privado o con licencia MIT + cláusula de uso.
 * Manejo de cookies y visitorData.
 * Optimización para Colab.
 
----
-
-¿Quieres que además te arme un **paquete de nombres sugeridos para los GIFs** en `assets/` (ejemplo `assets/demo_validacion.gif`, `assets/c_validacion.gif`, etc.) para que organices mejor tus capturas y no tengas que renombrar luego?
