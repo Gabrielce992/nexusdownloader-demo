@@ -43,7 +43,7 @@ Permite:
 
 5. **Acceso a videos Premium, privados o con restricción**
    ![Videos restringidos](assets/nexus(5).gif)
-   ![Vista general](assets/nexus(3).JPG)
+  
 ---
 ## ✨ Características principales
 
