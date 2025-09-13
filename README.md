@@ -33,17 +33,17 @@ Permite:
    ![Validación de enlace](assets/nexus(4).gif)
 
 2. **Tabla de formatos analizados con Pandas**
-   ![Tabla de formatos](assets/demo_tabla_formatos.gif)
+   ![Tabla de formatos](assets/nexus(7).JPG)
 
 3. **Recomendaciones automáticas de formatos**
-   ![Recomendaciones](assets/demo_recomendaciones.gif)
+   ![Recomendaciones](assets/nexus(2).gif)
 
 4. **Descarga y fusión en tiempo real con ffmpeg**
-   ![Descarga y fusión](assets/demo_descarga_fusion.gif)
+   ![Descarga y fusión](assets/nexus(1).gif)
 
 5. **Acceso a videos Premium, privados o con restricción**
-   ![Videos restringidos](assets/demo_restringidos.gif)
-
+   ![Videos restringidos](assets/nexus(5).gif.gif)
+   ![Vista general](assets/assets/nexus(3).JPG)
 ---
 ## ✨ Características principales
 
