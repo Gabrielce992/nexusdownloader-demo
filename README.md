@@ -60,7 +60,7 @@ Permite:
 
 5. **Acceso a videos Premium, privados o con restricción**
     ![Vista general](assets/nexus(3).JPG)
-   
+    ![Validación](assets/nexus(1).JPG)
 
 
   
@@ -73,7 +73,7 @@ Permite:
 * Fallback progresivo: estándar → visitorData → cookies.
 * Animación de carga ⏳ y mensajes claros.
   ![Validación](assets/nexus(5).JPG)
-  ![Validación](assets/nexus(1).JPG)
+  
 🔹 **2. Análisis Detallado de Formatos**
 
 * Usa `yt-dlp` para extraer todos los formatos.
