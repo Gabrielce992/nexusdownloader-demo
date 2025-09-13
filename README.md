@@ -54,15 +54,15 @@ Permite:
 
 4. **Descarga y fusión en tiempo real con ffmpeg**
    ![Descarga y fusión](assets/nexus(1).gif)
-
-
-
-
-
-
-5. **Acceso a videos Premium, privados o con restricción**
    ![Videos restringidos](assets/nexus(5).gif)
 
+
+
+
+    ![Vista general](assets/nexus(3).JPG)
+5. **Acceso a videos Premium, privados o con restricción**
+    ![Vista general](assets/nexus(3).JPG)
+   
 
 
   
@@ -95,7 +95,7 @@ Permite:
 * 🚀 Video de máxima calidad (VP9/AV1).
 * Clasificación: 🥇 Alta · 🥈 Media · ⚠️ Baja.
   ![Recomendaciones](assets/nexus(4).JPG)
-  ![Vista general](assets/nexus(3).JPG)
+  
 
 
   
