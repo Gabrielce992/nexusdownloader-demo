@@ -103,7 +103,7 @@ Permite:
 * Combina ambos con **ffmpeg** en un MP4 sin pérdida.
 * Barras de progreso y logs en tiempo real.
   ![Descarga](assets/nexus(6).JPG)
-
+  ![Videos restringidos](assets/nexus(5).gif)
 
 
 
