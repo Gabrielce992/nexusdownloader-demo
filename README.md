@@ -36,7 +36,7 @@ Permite:
    ![Tabla de formatos](assets/nexus(7).JPG)
 
 3. **Recomendaciones automáticas de formatos**
-   ![Recomendaciones](assets/nexus(2).gif)
+   ![Recomendaciones](assets/nexus.gif)
 
 4. **Descarga y fusión en tiempo real con ffmpeg**
    ![Descarga y fusión](assets/nexus(1).gif)
@@ -52,14 +52,16 @@ Permite:
 * Normaliza y valida cualquier URL.
 * Fallback progresivo: estándar → visitorData → cookies.
 * Animación de carga ⏳ y mensajes claros.
-  ![Validación](assets/c_validacion.gif)
-
+  ![Validación](assets/nexus(5).JPG)
+  ![Validación](assets/nexus(1).JPG)
 🔹 **2. Análisis Detallado de Formatos**
 
 * Usa `yt-dlp` para extraer todos los formatos.
 * Procesa resultados con **Pandas** en tablas interactivas.
 * Incluye resolución, FPS, códecs, bitrate, peso, compatibilidad.
-  ![Análisis](assets/c_analisis.gif)
+  ![Análisis](assets/nexus(7).JPG)
+  ![Análisis](assets/nexus(8).JPG)
+
 
 🔹 **3. Recomendaciones Automáticas**
 
@@ -67,14 +69,14 @@ Permite:
 * ✅ Video más compatible (H.264).
 * 🚀 Video de máxima calidad (VP9/AV1).
 * Clasificación: 🥇 Alta · 🥈 Media · ⚠️ Baja.
-  ![Recomendaciones](assets/c_recomendaciones.gif)
+  ![Recomendaciones](assets/nexus(4).JPG)
 
 🔹 **4. Descarga y Fusión Automática**
 
 * Descarga video y audio en paralelo.
 * Combina ambos con **ffmpeg** en un MP4 sin pérdida.
 * Barras de progreso y logs en tiempo real.
-  ![Descarga](assets/c_descarga.gif)
+  ![Descarga](assets/nexus(6).JPG)
 
 🔹 **5. Manejo de Restricciones**
 
