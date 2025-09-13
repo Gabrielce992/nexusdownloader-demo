@@ -47,19 +47,17 @@ Permite:
 
 3. **Recomendaciones automáticas de formatos**
   ![Recomendaciones](assets/nexus.gif)
-
+  ![Descarga y fusión](assets/nexus(1).gif)
 
 
 
 
 4. **Descarga y fusión en tiempo real con ffmpeg**
-   ![Descarga y fusión](assets/nexus(1).gif)
+   
    ![Videos restringidos](assets/nexus(5).gif)
 
 
 
-
-    ![Vista general](assets/nexus(3).JPG)
 5. **Acceso a videos Premium, privados o con restricción**
     ![Vista general](assets/nexus(3).JPG)
    
