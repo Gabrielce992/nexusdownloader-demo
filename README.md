@@ -30,7 +30,7 @@ Permite:
 🔗 **GIFs demostrativos** mostrando las principales funcionalidades del sistema:
 
 1. **Validación de enlace con fallback inteligente**
-   ![Validación de enlace](assets/demo_validacion.gif)
+   ![Validación de enlace](assets/nexus(4).gif)
 
 2. **Tabla de formatos analizados con Pandas**
    ![Tabla de formatos](assets/demo_tabla_formatos.gif)
