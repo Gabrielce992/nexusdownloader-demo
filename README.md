@@ -70,7 +70,7 @@ Permite:
 * 🚀 Video de máxima calidad (VP9/AV1).
 * Clasificación: 🥇 Alta · 🥈 Media · ⚠️ Baja.
   ![Recomendaciones](assets/nexus(4).JPG)
-
+  ![Vista general](assets/nexus(3).JPG)
 🔹 **4. Descarga y Fusión Automática**
 
 * Descarga video y audio en paralelo.
