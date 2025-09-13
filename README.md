@@ -46,7 +46,7 @@ Permite:
 
 
 3. **Recomendaciones automáticas de formatos**
-  ![Recomendaciones](assets/nexus.gif)
+  ![Recomendaciones](assets/nexus3.gif)
 
 
 
