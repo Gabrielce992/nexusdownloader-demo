@@ -39,14 +39,14 @@ Permite:
 
 2. **Tabla de formatos analizados con Pandas**
   
-   ![Recomendaciones](assets/nexus(3).gif)
+   ![Recomendaciones](assets/nexus3.gif)
 
 
 
 
 
 3. **Recomendaciones automáticas de formatos**
-  ![Recomendaciones](assets/nexus3.gif)
+  ![Recomendaciones](assets/nexus.gif)
 
 
 
