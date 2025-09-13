@@ -32,14 +32,22 @@ Permite:
 1. **Validación de enlace con fallback inteligente**
    ![Validación de enlace](assets/nexus(4).gif)
 
+
+
 2. **Tabla de formatos analizados con Pandas**
    ![Tabla de formatos](assets/nexus(7).JPG)
+
+
 
 3. **Recomendaciones automáticas de formatos**
    ![Recomendaciones](assets/nexus.gif)
 
+
+
 4. **Descarga y fusión en tiempo real con ffmpeg**
    ![Descarga y fusión](assets/nexus(1).gif)
+
+
 
 5. **Acceso a videos Premium, privados o con restricción**
    ![Videos restringidos](assets/nexus(5).gif)
