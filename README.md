@@ -47,7 +47,7 @@ Permite:
 
 3. **Recomendaciones automáticas de formatos**
   ![Recomendaciones](assets/nexus.gif)
-  ![Descarga y fusión](assets/nexus(1).gif)
+  
 
 
 
@@ -92,8 +92,8 @@ Permite:
 * ✅ Video más compatible (H.264).
 * 🚀 Video de máxima calidad (VP9/AV1).
 * Clasificación: 🥇 Alta · 🥈 Media · ⚠️ Baja.
-  ![Recomendaciones](assets/nexus(4).JPG)
   
+  ![Descarga y fusión](assets/nexus(1).gif)
 
 
   
