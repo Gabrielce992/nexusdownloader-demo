@@ -38,15 +38,15 @@ Permite:
 
 
 2. **Tabla de formatos analizados con Pandas**
-   ![Tabla de formatos](assets/nexus(7).JPG)
-
+  
+   ![Recomendaciones](assets/nexus(3).gif)
 
 
 
 
 
 3. **Recomendaciones automáticas de formatos**
-   ![Recomendaciones](assets/nexus.gif)
+  ![Recomendaciones](assets/nexus.gif)
 
 
 
