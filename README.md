@@ -34,8 +34,14 @@ Permite:
 
 
 
+
+
+
 2. **Tabla de formatos analizados con Pandas**
    ![Tabla de formatos](assets/nexus(7).JPG)
+
+
+
 
 
 
@@ -44,13 +50,21 @@ Permite:
 
 
 
+
+
 4. **Descarga y fusión en tiempo real con ffmpeg**
    ![Descarga y fusión](assets/nexus(1).gif)
 
 
 
+
+
+
 5. **Acceso a videos Premium, privados o con restricción**
    ![Videos restringidos](assets/nexus(5).gif)
+
+
+
   
 ---
 ## ✨ Características principales
@@ -71,6 +85,9 @@ Permite:
   ![Análisis](assets/nexus(8).JPG)
 
 
+
+
+
 🔹 **3. Recomendaciones Automáticas**
 
 * 🎧 Mejor audio (bitrate más alto).
@@ -79,12 +96,18 @@ Permite:
 * Clasificación: 🥇 Alta · 🥈 Media · ⚠️ Baja.
   ![Recomendaciones](assets/nexus(4).JPG)
   ![Vista general](assets/nexus(3).JPG)
+
+
+  
 🔹 **4. Descarga y Fusión Automática**
 
 * Descarga video y audio en paralelo.
 * Combina ambos con **ffmpeg** en un MP4 sin pérdida.
 * Barras de progreso y logs en tiempo real.
   ![Descarga](assets/nexus(6).JPG)
+
+
+
 
 🔹 **5. Manejo de Restricciones**
 
